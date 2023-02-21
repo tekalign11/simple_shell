@@ -2,7 +2,7 @@
 
 /**
  * _myexit - exits the shell
- * @info: Structure containing potential arguments
+ * @info: Structure containing potential argument
  * Return: exits with a given exit status
  */
 int _myexit(info_t *info)
