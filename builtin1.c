@@ -2,7 +2,7 @@
 
 /**
  * _myhistory - displays the history list
- * @info: Structure containing potential arguments
+ * @info: Structure containing potential argument
  * Return: Always 0
  */
 int _myhistory(info_t *info)
