@@ -2,7 +2,7 @@
 
 /**
  * _myenv - prints the current environment
- * @info: Structure containing potential arguments
+ * @info: Structure containing potential argument
  * Return: Always 0
  */
 int _myenv(info_t *info)
