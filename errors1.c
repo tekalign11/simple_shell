@@ -3,7 +3,7 @@
 /**
  * _erratoi - converts a string to an integer
  * @s: the string to be converted
- * Return: 0 if no numbers in string else -1 
+ * Return: 0 if no numbers in string else -1
  */
 int _erratoi(char *s)
 {
